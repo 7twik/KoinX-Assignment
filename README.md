@@ -38,5 +38,7 @@ ENV VARIABLES NEEDED ARE:
 DB_USERNAME=
 DB_PASSWORD=
 
+
+SCREENSHOT OF WORKING DEMO:
 <p><img align="center" src="https://res.cloudinary.com/dcyfkgtgv/image/upload/v1708633827/Screenshot_2024-02-23_015933_pdig2k.png" alt="7twik" /></p>
 <p><img align="center" src="https://res.cloudinary.com/dcyfkgtgv/image/upload/v1708633827/Screenshot_2024-02-23_011100_h60zfi.png" alt="7twik" /></p>
